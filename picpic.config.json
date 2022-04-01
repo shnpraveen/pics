@@ -5,7 +5,9 @@
             "jpg",
             "jpeg",
             "gif",
-            "webp"
+            "webp",
+            "PNG",
+            "JPEG"
       ],
       "compress": {
             "quality": 0.8,
